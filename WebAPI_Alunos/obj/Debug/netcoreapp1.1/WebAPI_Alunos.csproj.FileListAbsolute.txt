@@ -1,0 +1,9 @@
+A:\Projetos\Xamarin\Exemplos e Testes\WebAPI\WebAPI_Alunos\WebAPI_Alunos\bin\Debug\netcoreapp1.1\WebAPI_Alunos.deps.json
+A:\Projetos\Xamarin\Exemplos e Testes\WebAPI\WebAPI_Alunos\WebAPI_Alunos\bin\Debug\netcoreapp1.1\WebAPI_Alunos.runtimeconfig.json
+A:\Projetos\Xamarin\Exemplos e Testes\WebAPI\WebAPI_Alunos\WebAPI_Alunos\bin\Debug\netcoreapp1.1\WebAPI_Alunos.runtimeconfig.dev.json
+A:\Projetos\Xamarin\Exemplos e Testes\WebAPI\WebAPI_Alunos\WebAPI_Alunos\bin\Debug\netcoreapp1.1\WebAPI_Alunos.dll
+A:\Projetos\Xamarin\Exemplos e Testes\WebAPI\WebAPI_Alunos\WebAPI_Alunos\bin\Debug\netcoreapp1.1\WebAPI_Alunos.pdb
+A:\Projetos\Xamarin\Exemplos e Testes\WebAPI\WebAPI_Alunos\WebAPI_Alunos\obj\Debug\netcoreapp1.1\WebAPI_Alunos.csprojResolveAssemblyReference.cache
+A:\Projetos\Xamarin\Exemplos e Testes\WebAPI\WebAPI_Alunos\WebAPI_Alunos\obj\Debug\netcoreapp1.1\WebAPI_Alunos.AssemblyInfo.cs
+A:\Projetos\Xamarin\Exemplos e Testes\WebAPI\WebAPI_Alunos\WebAPI_Alunos\obj\Debug\netcoreapp1.1\WebAPI_Alunos.dll
+A:\Projetos\Xamarin\Exemplos e Testes\WebAPI\WebAPI_Alunos\WebAPI_Alunos\obj\Debug\netcoreapp1.1\WebAPI_Alunos.pdb
